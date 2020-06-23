@@ -13,8 +13,8 @@ library(tidyverse)
 
 # Background
 ```{r importdata}
-rawcount <- read_csv("../data/rawcounts.csv")
-#head(rawcount)
+rawcount <- read_csv("../data/sample1.csv")
+head(rawcount)
 ```
 
 we sent 10 samples to XYZ lab for expression profiles from NUMBER2 genes. the file is returned with the following column names ```r colnames(rawcount)```. We used the methods from [@breitling2004] in our analysis and maybe use the bioconductor package [@gentleman2004]
