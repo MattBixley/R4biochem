@@ -92,7 +92,7 @@ p1 <- ggplot(gene_dat, aes(x = gene, y = fold_change)) +
 p1
 ```
 
-```{r nameplot, echo = FALSE }
+```{r nameplot, echo = FALSE, eval = F }
 p2 <- ggplot(gene_dat, aes(x = name, y = fold_change)) +
   #geom_boxplot()
   geom_violin(alpha = 0) +
