@@ -10,6 +10,7 @@ bibliography: ../data/r4biochem.bib
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE,
                       fig.height = 10, fig.align = "center")
+#output_dir <- "output"
 library(tidyverse)
 ```
 
@@ -87,7 +88,6 @@ p1 <- ggplot(gene_dat, aes(x = gene, y = fold_change)) +
        x = "Fold Change",
        y = "Gene Name") +
   theme(axis.text.x  = element_text(angle=45, vjust=0.6))
-  
 
 p1
 ```
