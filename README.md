@@ -9,3 +9,4 @@ Teaching tools for R in an online environment tailored somewhat towards a Bioche
 
 Sample 1 = rawcounts
 Sample 2 = T0 * 0.75 from sample 1
+
