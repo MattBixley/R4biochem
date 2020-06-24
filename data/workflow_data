@@ -1,0 +1,574 @@
+id,sgRNA,T0,T20
+sample1,mcf7_unique:TSS100024_-_17662045.23-CUFF.46609.1,1383,1
+sample1,mcf7_unique:TSS100024_-_17662051.23-CUFF.46609.1,1229,304
+sample1,mcf7_unique:TSS100024_-_17662250.23-CUFF.46609.1,1265,602
+sample1,mcf7_unique:TSS100024_-_17662267.23-CUFF.46609.1,2897,10
+sample1,mcf7_unique:TSS100024_+_17661984.23-CUFF.46609.1,67,264
+sample1,mcf7_unique:TSS100024_+_17662123.23-CUFF.46609.1,90,0
+sample1,mcf7_unique:TSS100024_+_17662167.23-CUFF.46609.1,1843,5
+sample1,mcf7_unique:TSS100024_+_17662182.23-CUFF.46609.1,714,2
+sample1,mcf7_unique:TSS100027_-_17870899.23-CUFF.46581.1,645,2
+sample1,mcf7_unique:TSS100027_-_17870912.23-CUFF.46581.1,656,8
+sample1,mcf7_unique:TSS100027_-_17870985.23-CUFF.46581.1,783,1
+sample1,mcf7_unique:TSS100027_+_17870947.23-CUFF.46581.1,560,0
+sample1,mcf7_unique:TSS100027_+_17871017.23-CUFF.46581.1,2610,435
+sample1,mcf7_unique:TSS100027_+_17871044.23-CUFF.46581.1,957,799
+sample1,mcf7_unique:TSS100027_+_17871064.23-CUFF.46581.1,2275,1367
+sample1,mcf7_unique:TSS100027_+_17871289.23-CUFF.46581.1,1081,5
+sample1,mcf7_unique:TSS100027_+_17871319.23-CUFF.46581.1,1234,250
+sample1,mcf7_unique:TSS100027_+_17871325.23-CUFF.46581.1,874,4
+sample1,mcf7_unique:TSS100120_-_22876371.23-P1P2,1019,7
+sample1,mcf7_unique:TSS100120_-_22876430.23-P1P2,84,0
+sample1,mcf7_unique:TSS100120_-_22876761.23-P1P2,3194,13
+sample1,mcf7_unique:TSS100120_-_22876787.23-P1P2,423,1
+sample1,mcf7_unique:TSS100120_-_22876790.23-P1P2,1324,363
+sample1,mcf7_unique:TSS100120_+_22876510.23-P1P2,487,377
+sample1,mcf7_unique:TSS100120_+_22876813.23-P1P2,1625,384
+sample1,"mcf7_unique:TSS100124_-_22979335.23-CUFF.46690.1,CUFF.46690.2",215,1
+sample1,"mcf7_unique:TSS100124_-_22979354.23-CUFF.46690.1,CUFF.46690.2",2728,690
+sample1,"mcf7_unique:TSS100124_-_22979582.23-CUFF.46690.1,CUFF.46690.2",661,0
+sample1,"mcf7_unique:TSS100124_-_22979592.23-CUFF.46690.1,CUFF.46690.2",1252,1
+sample1,"mcf7_unique:TSS100124_-_22979597.23-CUFF.46690.1,CUFF.46690.2",4920,1075
+sample1,"mcf7_unique:TSS100124_-_22979669.23-CUFF.46690.1,CUFF.46690.2",437,258
+sample1,"mcf7_unique:TSS100124_+_22979259.23-CUFF.46690.1,CUFF.46690.2",482,0
+sample1,"mcf7_unique:TSS100124_+_22979347.23-CUFF.46690.1,CUFF.46690.2",160,0
+sample1,mcf7_unique:TSS100163_-_24814214.23-ENST00000221169,1125,1
+sample1,mcf7_unique:TSS100163_-_24814266.23-ENST00000221169,1454,3
+sample1,mcf7_unique:TSS100163_-_24814277.23-ENST00000221169,2141,6
+sample1,mcf7_unique:TSS100163_-_24814586.23-ENST00000221169,372,164
+sample1,mcf7_unique:TSS100163_-_24814637.23-ENST00000221169,2182,5
+sample1,mcf7_unique:TSS100163_+_24814385.23-ENST00000221169,1251,222
+sample1,mcf7_unique:TSS100163_+_24814469.23-ENST00000221169,375,0
+sample1,mcf7_unique:TSS100163_+_24814554.23-ENST00000221169,1053,3
+sample1,mcf7_unique:TSS100253_-_29592322.23-P1P2,187,0
+sample1,mcf7_unique:TSS100253_-_29592522.23-P1P2,721,3
+sample1,mcf7_unique:TSS100253_-_29592572.23-P1P2,2431,5
+sample1,mcf7_unique:TSS100253_-_29592800.23-P1P2,1540,2
+sample1,mcf7_unique:TSS100253_-_29592811.23-P1P2,788,4
+sample1,mcf7_unique:TSS100253_+_29592277.23-P1P2,1104,3
+sample1,mcf7_unique:TSS100253_+_29592313.23-P1P2,951,2
+sample1,mcf7_unique:TSS100253_+_29592428.23-P1P2,1276,324
+sample1,mcf7_unique:TSS100253_+_29592699.23-P1P2,2477,530
+sample1,mcf7_unique:TSS100253_+_29592726.23-P1P2,1345,4
+sample1,mcf7_unique:TSS100277_-_30088026.23-CUFF.46851.1,1627,359
+sample1,mcf7_unique:TSS100277_-_30088097.23-CUFF.46851.1,171,0
+sample1,mcf7_unique:TSS100277_-_30088104.23-CUFF.46851.1,1493,6
+sample1,mcf7_unique:TSS100277_-_30088134.23-CUFF.46851.1,621,340
+sample1,mcf7_unique:TSS100277_-_30088169.23-CUFF.46851.1,546,1
+sample1,mcf7_unique:TSS100277_-_30088172.23-CUFF.46851.1,617,201
+sample1,mcf7_unique:TSS100277_-_30088284.23-CUFF.46851.1,1248,3
+sample1,mcf7_unique:TSS100277_+_30087984.23-CUFF.46851.1,177,0
+sample1,mcf7_unique:TSS100277_+_30088011.23-CUFF.46851.1,944,3
+sample1,mcf7_unique:TSS100277_+_30088019.23-CUFF.46851.1,2145,202
+sample1,mcf7_unique:TSS100288_-_30242084.23-P1P2,1944,738
+sample1,mcf7_unique:TSS100288_+_30242040.23-P1P2,1223,393
+sample1,mcf7_unique:TSS100288_+_30242209.23-P1P2,1517,2
+sample1,mcf7_unique:TSS100288_+_30242321.23-P1P2,1080,652
+sample1,mcf7_unique:TSS100288_+_30242371.23-P1P2,3522,359
+sample1,mcf7_unique:TSS100288_+_30242408.23-P1P2,778,52
+sample1,mcf7_unique:TSS100288_+_30242411.23-P1P2,1497,439
+sample1,mcf7_unique:TSS100288_+_30242434.23-P1P2,1849,207
+sample1,mcf7_unique:TSS100288_+_30242440.23-P1P2,924,1
+sample1,mcf7_unique:TSS100288_+_30242446.23-P1P2,257,0
+sample1,mcf7_unique:TSS100316_-_32627380.23-CUFF.46859.1,515,405
+sample1,mcf7_unique:TSS100316_-_32627460.23-CUFF.46859.1,685,2
+sample1,mcf7_unique:TSS100316_-_32627563.23-CUFF.46859.1,154,0
+sample1,mcf7_unique:TSS100316_-_32627850.23-CUFF.46859.1,251,0
+sample1,mcf7_unique:TSS100316_+_32627453.23-CUFF.46859.1,116,0
+sample1,mcf7_unique:TSS100316_+_32627499.23-CUFF.46859.1,1213,296
+sample1,mcf7_unique:TSS100316_+_32627558.23-CUFF.46859.1,1415,3
+sample1,mcf7_unique:TSS100316_+_32627577.23-CUFF.46859.1,564,1
+sample1,mcf7_unique:TSS100316_+_32627583.23-CUFF.46859.1,1031,372
+sample1,mcf7_unique:TSS100316_+_32627635.23-CUFF.46859.1,825,1
+sample1,mcf7_unique:TSS10039_-_15117586.23-CUFF.4974.1,65,0
+sample1,mcf7_unique:TSS10039_-_15117691.23-CUFF.4974.1,1613,71
+sample1,mcf7_unique:TSS10039_-_15117701.23-CUFF.4974.1,1593,252
+sample1,mcf7_unique:TSS10039_-_15117704.23-CUFF.4974.1,602,0
+sample1,mcf7_unique:TSS10039_+_15117483.23-CUFF.4974.1,85,0
+sample1,mcf7_unique:TSS10039_+_15117603.23-CUFF.4974.1,1444,378
+sample1,mcf7_unique:TSS10039_+_15117642.23-CUFF.4974.1,2689,6
+sample1,mcf7_unique:TSS10039_+_15117650.23-CUFF.4974.1,1756,281
+sample1,mcf7_unique:TSS10039_+_15117654.23-CUFF.4974.1,564,2
+sample1,mcf7_unique:TSS100394_-_37374363.23-P1P2,5233,387
+sample1,mcf7_unique:TSS100394_-_37374482.23-P1P2,266,0
+sample1,mcf7_unique:TSS100394_-_37374493.23-P1P2,1685,4
+sample1,mcf7_unique:TSS100394_+_37374197.23-P1P2,1134,1
+sample1,mcf7_unique:TSS100394_+_37374246.23-P1P2,937,265
+sample1,mcf7_unique:TSS100394_+_37374284.23-P1P2,177,209
+sample1,mcf7_unique:TSS100394_+_37374299.23-P1P2,264,1
+sample1,mcf7_unique:TSS100394_+_37374309.23-P1P2,1481,3
+sample1,mcf7_unique:TSS100394_+_37374331.23-P1P2,1446,1
+sample1,mcf7_unique:TSS100394_+_37374467.23-P1P2,700,218
+id,sgRNA,T0,T20
+sample2,mcf7_unique:TSS100024_-_17662045.23-CUFF.46609.1,1037.25,1
+sample2,mcf7_unique:TSS100024_-_17662051.23-CUFF.46609.1,921.75,304
+sample2,mcf7_unique:TSS100024_-_17662250.23-CUFF.46609.1,948.75,602
+sample2,mcf7_unique:TSS100024_-_17662267.23-CUFF.46609.1,2172.75,10
+sample2,mcf7_unique:TSS100024_+_17661984.23-CUFF.46609.1,50.25,264
+sample2,mcf7_unique:TSS100024_+_17662123.23-CUFF.46609.1,67.5,0
+sample2,mcf7_unique:TSS100024_+_17662167.23-CUFF.46609.1,1382.25,5
+sample2,mcf7_unique:TSS100024_+_17662182.23-CUFF.46609.1,535.5,2
+sample2,mcf7_unique:TSS100027_-_17870899.23-CUFF.46581.1,483.75,2
+sample2,mcf7_unique:TSS100027_-_17870912.23-CUFF.46581.1,492,8
+sample2,mcf7_unique:TSS100027_-_17870985.23-CUFF.46581.1,587.25,1
+sample2,mcf7_unique:TSS100027_+_17870947.23-CUFF.46581.1,420,0
+sample2,mcf7_unique:TSS100027_+_17871017.23-CUFF.46581.1,1957.5,435
+sample2,mcf7_unique:TSS100027_+_17871044.23-CUFF.46581.1,717.75,799
+sample2,mcf7_unique:TSS100027_+_17871064.23-CUFF.46581.1,1706.25,1367
+sample2,mcf7_unique:TSS100027_+_17871289.23-CUFF.46581.1,810.75,5
+sample2,mcf7_unique:TSS100027_+_17871319.23-CUFF.46581.1,925.5,250
+sample2,mcf7_unique:TSS100027_+_17871325.23-CUFF.46581.1,655.5,4
+sample2,mcf7_unique:TSS100120_-_22876371.23-P1P2,764.25,7
+sample2,mcf7_unique:TSS100120_-_22876430.23-P1P2,63,0
+sample2,mcf7_unique:TSS100120_-_22876761.23-P1P2,2395.5,13
+sample2,mcf7_unique:TSS100120_-_22876787.23-P1P2,317.25,1
+sample2,mcf7_unique:TSS100120_-_22876790.23-P1P2,993,363
+sample2,mcf7_unique:TSS100120_+_22876510.23-P1P2,365.25,377
+sample2,mcf7_unique:TSS100120_+_22876813.23-P1P2,1218.75,384
+sample2,"mcf7_unique:TSS100124_-_22979335.23-CUFF.46690.1,CUFF.46690.2",161.25,1
+sample2,"mcf7_unique:TSS100124_-_22979354.23-CUFF.46690.1,CUFF.46690.2",2046,690
+sample2,"mcf7_unique:TSS100124_-_22979582.23-CUFF.46690.1,CUFF.46690.2",495.75,0
+sample2,"mcf7_unique:TSS100124_-_22979592.23-CUFF.46690.1,CUFF.46690.2",939,1
+sample2,"mcf7_unique:TSS100124_-_22979597.23-CUFF.46690.1,CUFF.46690.2",3690,1075
+sample2,"mcf7_unique:TSS100124_-_22979669.23-CUFF.46690.1,CUFF.46690.2",327.75,258
+sample2,"mcf7_unique:TSS100124_+_22979259.23-CUFF.46690.1,CUFF.46690.2",361.5,0
+sample2,"mcf7_unique:TSS100124_+_22979347.23-CUFF.46690.1,CUFF.46690.2",120,0
+sample2,mcf7_unique:TSS100163_-_24814214.23-ENST00000221169,843.75,1
+sample2,mcf7_unique:TSS100163_-_24814266.23-ENST00000221169,1090.5,3
+sample2,mcf7_unique:TSS100163_-_24814277.23-ENST00000221169,1605.75,6
+sample2,mcf7_unique:TSS100163_-_24814586.23-ENST00000221169,279,164
+sample2,mcf7_unique:TSS100163_-_24814637.23-ENST00000221169,1636.5,5
+sample2,mcf7_unique:TSS100163_+_24814385.23-ENST00000221169,938.25,222
+sample2,mcf7_unique:TSS100163_+_24814469.23-ENST00000221169,281.25,0
+sample2,mcf7_unique:TSS100163_+_24814554.23-ENST00000221169,789.75,3
+sample2,mcf7_unique:TSS100253_-_29592322.23-P1P2,140.25,0
+sample2,mcf7_unique:TSS100253_-_29592522.23-P1P2,540.75,3
+sample2,mcf7_unique:TSS100253_-_29592572.23-P1P2,1823.25,5
+sample2,mcf7_unique:TSS100253_-_29592800.23-P1P2,1155,2
+sample2,mcf7_unique:TSS100253_-_29592811.23-P1P2,591,4
+sample2,mcf7_unique:TSS100253_+_29592277.23-P1P2,828,3
+sample2,mcf7_unique:TSS100253_+_29592313.23-P1P2,713.25,2
+sample2,mcf7_unique:TSS100253_+_29592428.23-P1P2,957,324
+sample2,mcf7_unique:TSS100253_+_29592699.23-P1P2,1857.75,530
+sample2,mcf7_unique:TSS100253_+_29592726.23-P1P2,1008.75,4
+sample2,mcf7_unique:TSS100277_-_30088026.23-CUFF.46851.1,1220.25,359
+sample2,mcf7_unique:TSS100277_-_30088097.23-CUFF.46851.1,128.25,0
+sample2,mcf7_unique:TSS100277_-_30088104.23-CUFF.46851.1,1119.75,6
+sample2,mcf7_unique:TSS100277_-_30088134.23-CUFF.46851.1,465.75,340
+sample2,mcf7_unique:TSS100277_-_30088169.23-CUFF.46851.1,409.5,1
+sample2,mcf7_unique:TSS100277_-_30088172.23-CUFF.46851.1,462.75,201
+sample2,mcf7_unique:TSS100277_-_30088284.23-CUFF.46851.1,936,3
+sample2,mcf7_unique:TSS100277_+_30087984.23-CUFF.46851.1,132.75,0
+sample2,mcf7_unique:TSS100277_+_30088011.23-CUFF.46851.1,708,3
+sample2,mcf7_unique:TSS100277_+_30088019.23-CUFF.46851.1,1608.75,202
+sample2,mcf7_unique:TSS100288_-_30242084.23-P1P2,1458,738
+sample2,mcf7_unique:TSS100288_+_30242040.23-P1P2,917.25,393
+sample2,mcf7_unique:TSS100288_+_30242209.23-P1P2,1137.75,2
+sample2,mcf7_unique:TSS100288_+_30242321.23-P1P2,810,652
+sample2,mcf7_unique:TSS100288_+_30242371.23-P1P2,2641.5,359
+sample2,mcf7_unique:TSS100288_+_30242408.23-P1P2,583.5,52
+sample2,mcf7_unique:TSS100288_+_30242411.23-P1P2,1122.75,439
+sample2,mcf7_unique:TSS100288_+_30242434.23-P1P2,1386.75,207
+sample2,mcf7_unique:TSS100288_+_30242440.23-P1P2,693,1
+sample2,mcf7_unique:TSS100288_+_30242446.23-P1P2,192.75,0
+sample2,mcf7_unique:TSS100316_-_32627380.23-CUFF.46859.1,386.25,405
+sample2,mcf7_unique:TSS100316_-_32627460.23-CUFF.46859.1,513.75,2
+sample2,mcf7_unique:TSS100316_-_32627563.23-CUFF.46859.1,115.5,0
+sample2,mcf7_unique:TSS100316_-_32627850.23-CUFF.46859.1,188.25,0
+sample2,mcf7_unique:TSS100316_+_32627453.23-CUFF.46859.1,87,0
+sample2,mcf7_unique:TSS100316_+_32627499.23-CUFF.46859.1,909.75,296
+sample2,mcf7_unique:TSS100316_+_32627558.23-CUFF.46859.1,1061.25,3
+sample2,mcf7_unique:TSS100316_+_32627577.23-CUFF.46859.1,423,1
+sample2,mcf7_unique:TSS100316_+_32627583.23-CUFF.46859.1,773.25,372
+sample2,mcf7_unique:TSS100316_+_32627635.23-CUFF.46859.1,618.75,1
+sample2,mcf7_unique:TSS10039_-_15117586.23-CUFF.4974.1,48.75,0
+sample2,mcf7_unique:TSS10039_-_15117691.23-CUFF.4974.1,1209.75,71
+sample2,mcf7_unique:TSS10039_-_15117701.23-CUFF.4974.1,1194.75,252
+sample2,mcf7_unique:TSS10039_-_15117704.23-CUFF.4974.1,451.5,0
+sample2,mcf7_unique:TSS10039_+_15117483.23-CUFF.4974.1,63.75,0
+sample2,mcf7_unique:TSS10039_+_15117603.23-CUFF.4974.1,1083,378
+sample2,mcf7_unique:TSS10039_+_15117642.23-CUFF.4974.1,2016.75,6
+sample2,mcf7_unique:TSS10039_+_15117650.23-CUFF.4974.1,1317,281
+sample2,mcf7_unique:TSS10039_+_15117654.23-CUFF.4974.1,423,2
+sample2,mcf7_unique:TSS100394_-_37374363.23-P1P2,3924.75,387
+sample2,mcf7_unique:TSS100394_-_37374482.23-P1P2,199.5,0
+sample2,mcf7_unique:TSS100394_-_37374493.23-P1P2,1263.75,4
+sample2,mcf7_unique:TSS100394_+_37374197.23-P1P2,850.5,1
+sample2,mcf7_unique:TSS100394_+_37374246.23-P1P2,702.75,265
+sample2,mcf7_unique:TSS100394_+_37374284.23-P1P2,132.75,209
+sample2,mcf7_unique:TSS100394_+_37374299.23-P1P2,198,1
+sample2,mcf7_unique:TSS100394_+_37374309.23-P1P2,1110.75,3
+sample2,mcf7_unique:TSS100394_+_37374331.23-P1P2,1084.5,1
+sample2,mcf7_unique:TSS100394_+_37374467.23-P1P2,525,218
+﻿id,age,sex,height,weight,disease
+sample1,60,m,172,,1
+sample2,43,m,182,,0
+sample3,53,m,189,,1
+sample4,42,m,192,,0
+sample5,37,m,177,,1
+sample6,61,f,169,,0
+sample7,55,f,173,,1
+sample8,56,f,163,,0
+sample9,52,f,174,,1
+sample10,43,f,175,,0
+Automatically generated by Mendeley Desktop 1.19.4
+Any changes to this file will be lost if it is regenerated by Mendeley.
+
+BibTeX export options can be customized via Options -> BibTeX in Mendeley Desktop
+
+@article{breitling2004,
+abstract = {One of the main objectives in the analysis of microarray experiments is the identification of genes that are differentially expressed under two experimental conditions. This task is complicated by the noisiness of the data and the large number of genes that are examined simultaneously. Here, we present a novel technique for identifying differentially expressed genes that does not originate from a sophisticated statistical model but rather from an analysis of biological reasoning. The new technique, which is based on calculating rank products (RP) from replicate experiments, is fast and simple. At the same time, it provides a straightforward and statistically stringent way to determine the significance level for each gene and allows for the flexible control of the false-detection rate and familywise error rate in the multiple testing situation of a microarray experiment. We use the RP technique on three biological data sets and show that in each case it performs more reliably and consistently than the non-parametric t-test variant implemented in Tusher et al.'s significance analysis of microarrays (SAM). We also show that the RP results are reliable in highly noisy data. An analysis of the physiological function of the identified genes indicates that the RP approach is powerful for identifying biologically relevant expression changes. In addition, using RP can lead to a sharp reduction in the number of replicate experiments needed to obtain reproducible results. {\textcopyright} 2004 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.},
+author = {Breitling, Rainer and Armengaud, Patrick and Amtmann, Anna and Herzyk, Pawel},
+doi = {10.1016/j.febslet.2004.07.055},
+issn = {00145793},
+journal = {FEBS Lett.},
+keywords = {Differentially expressed gene,FC,HDL,Microarray analysis,RP,SAM,fold-change,high-density lipoprotein,rank product,significance analysis of microarrays},
+month = {aug},
+number = {1-3},
+pages = {83--92},
+pmid = {15327980},
+title = {{Rank products: A simple, yet powerful, new method to detect differentially regulated genes in replicated microarray experiments}},
+volume = {573},
+year = {2004}
+}
+@article{gentleman2004,
+abstract = {The Bioconductor project is an initiative for the collaborative creation of extensible software for computational biology and bioinformatics. The goals of the project include: fostering collaborative development and widespread use of innovative software, reducing barriers to entry into interdisciplinary scientific research, and promoting the achievement of remote reproducibility of research results. We describe details of our aims and methods, identify current challenges, compare Bioconductor to other open bioinformatics projects, and provide working examples.},
+author = {Gentleman, Robert C. and Carey, Vincent J. and Bates, Douglas M. and Bolstad, Ben and Dettling, Marcel and Dudoit, Sandrine and Ellis, Byron and Gautier, Laurent and Ge, Yongchao and Gentry, Jeff and Hornik, Kurt and Hothorn, Torsten and Huber, Wolfgang and Iacus, Stefano and Irizarry, Rafael and Leisch, Friedrich and Li, Cheng and Maechler, Martin and Rossini, Anthony J. and Sawitzki, Gunther and Smith, Colin and Smyth, Gordon and Tierney, Luke and Yang, Jean Y.H. and Zhang, Jianhua},
+doi = {10.1186/gb-2004-5-10-r80},
+issn = {14656914},
+journal = {Genome Biol.},
+number = {10},
+title = {{Bioconductor: open software development for computational biology and bioinformatics.}},
+volume = {5},
+year = {2004}
+}
+chr	start	end	TSS	gene
+4	88090264	88158859	TSS100024	ABCG2
+4	88090264	88158859	TSS100163	ABCG2
+4	88090264	88158859	TSS100027	ABCG2
+4	88090264	88159326	TSS100124	ABCG2
+4	88090264	88231626	TSS100120	ABCG2
+4	88090264	88231626	TSS100253	ABCG2
+5	173056349	173139284	TSS100277	CREBRF
+5	173056349	173139284	TSS100288	CREBRF
+5	173057353	173139284	TSS100316	CREBRF
+5	173057353	173239284	TSS100039	CREBRF
+5	173057353	173239284	TSS100354	CREBRF
+5 171000000 171100000 TSS100394  P1P2
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
+  <info>
+    <title>Nature</title>
+    <id>http://www.zotero.org/styles/nature</id>
+    <link href="http://www.zotero.org/styles/nature" rel="self"/>
+    <link href="http://www.nature.com/nature/authors/gta/index.html#a5.4" rel="documentation"/>
+    <link href="http://www.nature.com/srep/publish/guidelines#references" rel="documentation"/>
+    <author>
+      <name>Michael Berkowitz</name>
+      <email>mberkowi@gmu.edu</email>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <category field="generic-base"/>
+    <issn>0028-0836</issn>
+    <eissn>1476-4687</eissn>
+    <updated>2019-10-10T03:01:26+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="title">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=", " delimiter=", " and="symbol" initialize-with=". " delimiter-precedes-last="never" name-as-sort-order="all"/>
+      <label form="short" prefix=", "/>
+      <et-al font-style="italic"/>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="volume"/>
+      <else-if variable="DOI">
+        <text variable="DOI" prefix="doi:"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="issuance">
+    <choose>
+      <if type="bill book graphic legal_case legislation motion_picture song thesis chapter paper-conference" match="any">
+        <group delimiter="; " suffix=".">
+          <group delimiter=", " prefix="(" suffix=")">
+            <text variable="publisher" form="long"/>
+            <date variable="issued">
+              <date-part name="year"/>
+            </date>
+          </group>
+        </group>
+      </if>
+      <else-if type="report webpage post post-weblog" match="any">
+        <group delimiter=" ">
+          <text variable="URL"/>
+          <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+        </group>
+      </else-if>
+      <else>
+        <date variable="issued" prefix="(" suffix=")">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal">
+        <text variable="container-title" font-style="italic" form="short"/>
+      </if>
+      <else>
+        <text variable="container-title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="editor">
+    <choose>
+      <if type="chapter paper-conference" match="any">
+        <names variable="editor" prefix="(" suffix=")">
+          <label form="short" suffix=" "/>
+          <name and="symbol" delimiter-precedes-last="never" initialize-with=". " name-as-sort-order="all"/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <macro name="volume">
+    <choose>
+      <if type="article-journal" match="any">
+        <text variable="volume" font-weight="bold" suffix=","/>
+      </if>
+      <else>
+        <group delimiter=" ">
+          <label variable="volume" form="short"/>
+          <text variable="volume"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography et-al-min="6" et-al-use-first="1" second-field-align="flush" entry-spacing="0" line-spacing="2">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <group delimiter=" ">
+        <text macro="author" suffix="."/>
+        <text macro="title" suffix="."/>
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <text term="in"/>
+          </if>
+        </choose>
+        <text macro="container-title"/>
+        <text macro="editor"/>
+        <text macro="volume"/>
+        <text variable="page"/>
+        <text macro="issuance"/>
+        <text macro="access"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <info>
+    <title>Proceedings of the National Academy of Sciences of the United States of America</title>
+    <title-short>PNAS</title-short>
+    <id>http://www.zotero.org/styles/pnas</id>
+    <link href="http://www.zotero.org/styles/pnas" rel="self"/>
+    <link href="http://www.pnas.org/site/authors/procedures.xhtml" rel="documentation"/>
+    <author>
+      <name>Julian Onions</name>
+      <email>julian.onions@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Rintze Zelle</name>
+      <uri>http://twitter.com/rintzezelle</uri>
+    </contributor>
+    <contributor>
+      <name>Bela Hausmann</name>
+      <uri>https://github.com/and3k</uri>
+    </contributor>
+    <contributor>
+      <name>Patrick O'Brien</name>
+      <uri>https://twitter.com/patobrien333</uri>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="science"/>
+    <issn>0027-8424</issn>
+    <eissn>1091-6490</eissn>
+    <summary>The Proceedings of the National Academy of Sciences Journal style as per the updated guidelines from 04/2019.</summary>
+    <updated>2019-08-30T16:17:59+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <macro name="editor">
+    <names variable="editor" prefix=" " delimiter=", ">
+      <name delimiter-precedes-last="always" initialize-with=". " sort-separator=" "/>
+      <et-al font-style="italic"/>
+      <label form="short" text-case="capitalize-first" strip-periods="false" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter-precedes-last="always" initialize-with=". " sort-separator=" "/>
+      <et-al font-style="italic"/>
+      <label form="short" text-case="capitalize-first" prefix=", "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if variable="page" match="none">
+        <choose>
+          <if variable="volume page" match="none">
+            <group delimiter=" ">
+              <text variable="DOI" prefix="https:/doi.org/"/>
+              <date form="text" variable="accessed" prefix="(" suffix=")"/>
+            </group>
+          </if>
+          <else-if type="webpage post post-weblog">
+            <text value="Available at:" suffix=" "/>
+            <text variable="URL"/>
+            <group prefix=" [" suffix="]">
+              <text term="accessed" text-case="capitalize-first" suffix=" "/>
+              <date variable="accessed">
+                <date-part name="month" suffix=" "/>
+                <date-part name="day" suffix=", "/>
+                <date-part name="year"/>
+              </date>
+            </group>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="book">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else-if type="chapter report thesis" match="any">
+        <text variable="title" quotes="true"/>
+      </else-if>
+      <else>
+        <text variable="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <text variable="publisher"/>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" text-case="capitalize-first"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="year-date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography second-field-align="flush" et-al-min="6" et-al-use-first="1" delimiter-precedes-et-al="always">
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <choose>
+        <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
+          <group delimiter=" ">
+            <group delimiter=", " prefix=", ">
+              <text macro="title"/>
+              <text macro="editor"/>
+              <text macro="edition"/>
+            </group>
+            <group delimiter=", " prefix="(" suffix=")">
+              <text macro="publisher"/>
+              <text macro="year-date"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=" " prefix=", ">
+            <text macro="title"/>
+            <text term="in"/>
+            <group delimiter=", ">
+              <text variable="container-title" text-case="title" font-style="italic"/>
+              <text variable="collection-title" prefix=" " suffix="."/>
+              <text macro="edition"/>
+              <group delimiter=" ">
+                <text macro="editor"/>
+                <group delimiter=", " prefix="(" suffix=")">
+                  <text macro="publisher"/>
+                  <text macro="year-date"/>
+                </group>
+              </group>
+            </group>
+          </group>
+          <group prefix=", ">
+            <label strip-periods="false" suffix=" " variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group delimiter=" ">
+            <group delimiter=",  " prefix=", " suffix=".">
+              <text macro="title"/>
+              <text variable="publisher"/>
+              <text variable="publisher-place"/>
+            </group>
+            <text macro="year-date" prefix="(" suffix=")"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". ">
+            <text macro="title" prefix=", "/>
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <text variable="container-title" form="short" strip-periods="false" font-style="italic"/>
+                <text variable="volume" font-weight="bold"/>
+              </group>
+              <text variable="page"/>
+            </group>
+          </group>
+          <text macro="year-date" prefix=" (" suffix=")"/>
+        </else>
+      </choose>
+      <text prefix=" " macro="access"/>
+    </layout>
+  </bibliography>
+</style>
