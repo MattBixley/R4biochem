@@ -5,13 +5,24 @@ date: "`r Sys.Date()`"
 output:
   html_document: default
 bibliography: ../data/r4biochem.bib
+csl: ../data/pnas.csl
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE,
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, 
                       fig.height = 10, fig.align = "center")
 #output_dir <- "output"
 library(tidyverse)
+
+# plot themes
+my_theme <- theme_classic() + 
+  theme(legend.position="bottom") +
+  theme(axis.line = element_line(colour = "grey50")) + # plot axis to grey
+  theme(panel.grid.major = element_line(colour = "grey40", size = 0.4)) + # grid to grey
+  theme(panel.grid.minor = element_line(colour = "grey70", size = 0.3)) + # grid to grey
+  theme(panel.grid.major.x = element_blank()) + #remove the vertical grid lines 
+  theme(panel.grid.minor.x = element_blank()) #remove the vertical grid lines
+
 ```
 
 # Background
@@ -79,17 +90,27 @@ knitr::kable(gene_summary,
 
 Plot Fold Change by Gene
 
-```{r geneplot, echo = FALSE }
+```{r geneplot, echo = FALSE, eval = FALSE}
+p <- ggplot(gene_dat, aes(x = gene, y = fold_change)) +
+  geom_boxplot()
+  #geom_violin(alpha = 0) +
+  #geom_jitter(alpha = 0.6, width = 0.1, color = "blue")
+
+p
+```
+
+```{r geneplotnice, echo = FALSE }
 p1 <- ggplot(gene_dat, aes(x = gene, y = fold_change)) +
   #geom_boxplot()
   geom_violin(alpha = 0) +
-  geom_jitter(alpha = 0.6, width = 0.1, color = "blue") +
+  geom_jitter(alpha = 0.6, width = 0.1, color = "blue") #+
+  
+p1 + my_theme + 
   labs(title = "Distribution of Fold Change\nby Gene",
        x = "Fold Change",
        y = "Gene Name") +
   theme(axis.text.x  = element_text(angle=45, vjust=0.6))
 
-p1
 ```
 
 ```{r nameplot, echo = FALSE, eval = F }
@@ -108,6 +129,7 @@ p2
 
 
 # Discussion
+
 
 ```{r bestgene}
 best <- gene_summary %>% 
