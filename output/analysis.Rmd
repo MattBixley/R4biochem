@@ -25,21 +25,42 @@ my_theme <- theme_classic() +
 
 ```
 
-# Background
-```{r importdata}
+# Import Data
+
+Lets read in a files and see how that looks.
+```{r}
 rawcount <- read_csv("../data/sample1.csv")
 head(rawcount)
+dim(rawcount)
 ```
 
-we sent 10 samples to XYZ lab for expression profiles from NUMBER2 genes. the file is returned with the following column names ```r colnames(rawcount)```. We used the methods from [@breitling2004] in our analysis and maybe use the bioconductor package [@gentleman2004]
+OK that looks like we expected so maybe we have lots of them and want to create a large dataset
 
+```{r loopread}
+files <- c("sample1.csv", "sample2.csv") # list.files()
 
-# Summary
+# create an empty file
+gene_dat <- data.frame(matrix(ncol = ncol(rawcount))) 
+names(gene_dat) <- colnames(rawcount)
+
+for(file in files){
+  x <- read_csv(paste0("../data/",file))
+  gene_dat <- bind_rows(gene_dat, x)
+}
+
+gene_dat <- gene_dat[-1,]
+
+# check the dimensions
+dim(gene_dat)
+head(gene_dat)
+```
+
+# Tidy
 
 ```{r tidy}
 
 ## Tidying
-gene_dat <- rawcount %>% 
+gene_final <- gene_dat %>% 
   # separate the sgRNA column into multiple new columns based on the "_" character as a delimiter 
     separate(col = sgRNA, into = c("something","TSS", "strand", "probe_gene"), sep = "_") %>%
   
@@ -53,29 +74,30 @@ gene_dat <- rawcount %>%
   # Calculate fold change/ probe by using T20/T0
   mutate(fold_change = T20 / T0)
 
-head(gene_dat)
+head(gene_final)
 
 ```
+
+
 
 ```{r join}
 # join our probe data to the output
-probe <- read_delim("../data/probes.csv", delim = "\t")
+probe <- read_csv("../data/probes.csv")
 
-#head(probe)
-
-gene_dat <- gene_dat %>% 
+gene_final <- gene_final %>% 
   left_join(.,probe) %>% 
   select(-something)
 
-head(gene_dat)
+head(gene_final)
 
 ```
 
+we sent `r length(files)` samples to [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/) for expression profiles from `r length(unique(gene_final$gene))` genes. the file is returned with the following column names ```r colnames(rawcount)```. We used the methods from [@breitling2004] in our analysis and maybe use the bioconductor package [@gentleman2004]
 
 Table of Gene Summary Data
 ```{r genetable}
 ## gene summary
-gene_summary <- gene_dat %>%
+gene_summary <- gene_final %>%
     group_by(gene) %>%
     summarise(mean = mean(fold_change, na.rm = T), 
               sd = sd(fold_change, na.rm = T),
@@ -91,7 +113,7 @@ knitr::kable(gene_summary,
 Plot Fold Change by Gene
 
 ```{r geneplot, echo = FALSE, eval = FALSE}
-p <- ggplot(gene_dat, aes(x = gene, y = fold_change)) +
+p <- ggplot(gene_final, aes(x = gene, y = fold_change)) +
   geom_boxplot()
   #geom_violin(alpha = 0) +
   #geom_jitter(alpha = 0.6, width = 0.1, color = "blue")
@@ -100,7 +122,7 @@ p
 ```
 
 ```{r geneplotnice, echo = FALSE }
-p1 <- ggplot(gene_dat, aes(x = gene, y = fold_change)) +
+p1 <- ggplot(gene_final, aes(x = gene, y = fold_change)) +
   #geom_boxplot()
   geom_violin(alpha = 0) +
   geom_jitter(alpha = 0.6, width = 0.1, color = "blue") #+
@@ -114,7 +136,7 @@ p1 + my_theme +
 ```
 
 ```{r nameplot, echo = FALSE, eval = F }
-p2 <- ggplot(gene_dat, aes(x = name, y = fold_change)) +
+p2 <- ggplot(gene_final, aes(x = name, y = fold_change)) +
   #geom_boxplot()
   geom_violin(alpha = 0) +
   geom_jitter(alpha = 0.6, width = 0.1, color = "blue") +
